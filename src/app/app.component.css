@@ -1,0 +1,41 @@
+div { 
+    margin: 2rem;
+}
+
+.navbar{
+    justify-content: space-between;
+}
+
+span{
+    padding-right: 1rem;
+}
+
+mat-sidenav-container{
+    height: 100%;
+}
+
+mat-sidenav, mat-sidenav-content{
+    padding: 16px;
+}
+
+mat-sidenav {
+    background-color: lightcoral;
+    width: 200px;
+}
+
+.center{
+    margin: 10rem;
+}
+
+mat-grid-tile {
+    background-color: lightblue;
+}
+
+mat-form-field{
+    margin-left: 3rem;
+}
+
+table {
+    width: 100%;
+  }
+  
